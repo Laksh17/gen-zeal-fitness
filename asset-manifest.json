@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gen-zeal-fitness/static/css/main.5d456820.css",
+    "main.js": "/gen-zeal-fitness/static/js/main.52d73bf7.js",
+    "static/media/Laksh Formals.jpeg": "/gen-zeal-fitness/static/media/Laksh Formals.6a5beff8a7ccf61235c0.jpeg",
+    "static/media/Gen_Zeal-removebg-preview.png": "/gen-zeal-fitness/static/media/Gen_Zeal-removebg-preview.e8306646ebb2dd731fc7.png",
+    "index.html": "/gen-zeal-fitness/index.html",
+    "main.5d456820.css.map": "/gen-zeal-fitness/static/css/main.5d456820.css.map",
+    "main.52d73bf7.js.map": "/gen-zeal-fitness/static/js/main.52d73bf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d456820.css",
+    "static/js/main.52d73bf7.js"
+  ]
+}
